@@ -62,10 +62,6 @@ Seta para cima → Acelera
 
 Espaço → Dispara
 
-📸 Screenshots (opcional)
-
-Você pode adicionar capturas de tela aqui para deixar o README mais atraente.
-
 🛠️ Melhorias Futuras
 
 Sons e trilhas
